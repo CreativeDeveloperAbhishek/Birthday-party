@@ -1,0 +1,155 @@
+.birthday-img{
+    height: 150px;
+    width: 200px;
+}
+
+.centre-img{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+}
+
+.friends-out{
+    height: 150px;
+    width: 200px;
+}
+
+.cat-color{
+    height: 150px;
+    width: 200px;
+}
+
+    
+   
+
+    
+    
+    
+
+
+
+
+.birthday-paragraph{
+    text-align: justify;
+    color: aliceblue;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    margin: 10px;
+
+}
+
+.contact{
+    font-size: 27px;
+    color: rgb(55, 10, 160);
+
+}
+
+.About-me{
+    font-size: 27px;
+    color: rgb(55, 10, 160);
+}
+
+div{
+    align-items: center;
+}
+
+.para-donation{
+    color: aliceblue;
+    font-size: 25px;
+}
+ .heading{
+    font-size: 35px;
+ }
+
+.scan-para{
+    font-size: 24px;
+    color: aliceblue;
+}
+
+.project-para{
+    font-size: 35px;
+}
+
+.video-design{
+    height: 450px;
+    width: 500px;
+}
+
+.heading-edit{
+    font-size: 35px;
+    color: blue;
+}
+
+
+
+
+.video1{
+    border-color: aliceblue;
+    border: 2px;
+    margin: 2px;
+    padding: 2px;
+    margin-top: 2px;
+
+
+
+}
+
+.video-edit{
+    position: relative;
+    top: auto;
+    margin-top: 2px;
+    
+}
+
+
+
+body {
+    background-color: #af6363;
+    background-image: linear-gradient(40deg, #9a3b3e, #be6f59);
+    background-blend-mode: overlay;
+    opacity: 1;
+
+  }
+  .d1{
+    display: flexbox;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+  }
+
+
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4858ec;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #savedMessages {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
